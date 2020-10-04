@@ -9,6 +9,9 @@ Constraints:
 -2^31 <= n <= (2^31)-1
 -10^4 <= xn <= 10^4
 
+Difficulty: Medium
+Time Complexity: Log(n)
+Space Complexity: Log(n)
 */ 
 class Solution {
     // To caluculate x^n
